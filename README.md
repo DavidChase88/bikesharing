@@ -28,3 +28,5 @@ For this NYC Citibike analysis we used seven visualizations:
 ## Sumamry
 
 This analysis shows that male subscribers use these bikes a lot and generally for work. I would look at the locations of male subscribers to see the type of businesses in the area for the highest traffic to see if those businesses are in the Des Moines area. 
+
+[link to dashboard](https://public.tableau.com/profile/david.w.chase#!/vizhome/Module-14ChallengeFinal/ChallengeNYCStory?publish=yes)
